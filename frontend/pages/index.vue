@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Blog</h1>
+    <h1>BLOG</h1>
 
     <select v-model="selectedCategory">
       <option value="">All Categories</option>
